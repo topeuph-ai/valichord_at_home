@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+valichord_at_home/tests/
+valichord_at_home/output/
+backend/app.log
+backend/__pycache__/
